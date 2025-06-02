@@ -1,7 +1,7 @@
 # website
 from pydoc import pager
 
-# person nal website
+# personnal website
 
 # html
 # css
