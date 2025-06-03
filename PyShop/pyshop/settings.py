@@ -25,7 +25,7 @@ SECRET_KEY = '0svmz(uxufxd6g&v8f2l8-=+qjuh+0(8_hfdi^%$3&zr5(t20$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pythondjangoproject2pyshop.onrender.com', 'http://127.0.0.1:8000/']
 
 
 # Application definition
