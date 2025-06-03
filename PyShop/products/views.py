@@ -6,7 +6,7 @@ from .models import Product
 # /products -> index
 # Uniform Request Locator (URL)
 
-def index(request):
+def allproducts(request):
     products = Product.objects.all()
     return render(request, 'index.html',
                   {'products':products})

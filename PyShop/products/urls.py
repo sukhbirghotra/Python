@@ -7,6 +7,6 @@ from . import views
 # /products/new
 
 urlpatterns = [
-    path('', views.index),
+    path('', views.allproducts),
     path('new', views.new)
 ]
