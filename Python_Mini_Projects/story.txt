@@ -1,0 +1,7 @@
+Today I went to the zoo with my best friend, <person_name>. We saw a <adjective> <animal> jumping up and down in its tree. It <verb_past_tense> through the large tunnel that led to its <adjective> habitat.
+
+I got some peanuts and passed them to a <adjective> <animal>, which <verb_past_tense> them right out of my hand. I felt really <emotion>!
+
+Later, we saw a group of <plural_noun> that were <verb_ending_in_ing> in the <place>. It was so <adjective>!
+
+On the way home, we stopped for <food> and talked about how <adjective> the day was. I can’t wait to go back and see the <plural_noun> again!
